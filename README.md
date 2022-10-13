@@ -1,0 +1,2 @@
+# currencyAPI
+JUST for fun
