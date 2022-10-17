@@ -5,7 +5,7 @@ def get_tesla():
     payload = "symbol=TSLA"
     headers = {
         "content-type": "application/x-www-form-urlencoded",
-        "X-RapidAPI-Key": "7dc596c1fcmsh9cc541252b15086p180685jsnda63fba9b114",
+        "X-RapidAPI-Key": "YourAPIkeyHERE",
         "X-RapidAPI-Host": "yahoo-finance97.p.rapidapi.com"
     }
 
